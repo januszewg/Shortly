@@ -1,0 +1,18 @@
+section#content{
+	background: url('../img/vader.jpg') 0 0;
+	background-position:center; 
+}
+section#content section.container{
+	width: 30% !important;
+	margin: 0 auto;
+	position: relative !important;
+	height: auto !important;
+	min-height: 15% !important;
+	top: 10em; !important;
+	background: rgba(0,0,0,0.8);
+	padding: 1em 0;
+	border-radius: 10px;
+	text-align: center;
+}
+section#content section.container h2{color:#fff;font-family: helvetica,arial;font-size: 1.6em;}
+section#content section.container h3{color: #BF1E2E;}
